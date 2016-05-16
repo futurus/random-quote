@@ -1,0 +1,38 @@
+body {
+  background-color: "lightgray";
+  padding: 20px;
+}
+
+.container {
+  width: 50%;
+}
+
+.jumbotron {
+  width: 100%;
+  margin: 4% auto auto auto;
+}
+
+.btn-newquote {
+  margin: 1% 0 0 0;
+  float: right;
+}
+
+.btn-twitter {
+  margin: 1% 0 0 0;
+  float: left;
+}
+
+.quote-text {
+  font-family: 'Noticia Text', serif;
+  font-size: 2.25em;
+  color: #2e5783;
+}
+
+.fa-quote-left {
+  color: #2e5783;
+}
+
+.author {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.5em;
+}
